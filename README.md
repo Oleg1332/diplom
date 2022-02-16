@@ -9,4 +9,4 @@
 3. sql
 4. git
 
-<img src="D:\git_projects\diplom\img\arc.pgn" />
+![arc](https://user-images.githubusercontent.com/36477010/154318093-714cb921-5e47-4613-a5dd-7d2564603e62.png)
